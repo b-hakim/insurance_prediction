@@ -16,5 +16,5 @@ The analysis and prediction module are discussed in the attached notebook.
 # Future work
 - Analyze more features to separate the non-smokers and obese class as well as the non-smokers and non-obese class into separable categories to reflect the different cost categories.
 - Decreasing the prediction error by using a different model based on the different categories. It seems that each category can be modeled by a linearly, thus
-- Suggesting a different set of subscription plans and showing the loss rate for each set.
+- Suggesting a different set of beneficiary segments and showing the loss rate for each one.
 
